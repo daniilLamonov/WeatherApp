@@ -1,0 +1,24 @@
+{
+  "originHash" : "db767c4e905a32ebc6d899c70091cf8ad35676c215f53a2402c468108bafc6d2",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "springanimation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LexDeBash/SpringAnimation.git",
+      "state" : {
+        "revision" : "93c90034c94d0374f634d7f29950655933b9045a",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
